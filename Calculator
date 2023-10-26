@@ -42,49 +42,7 @@
 </body>
 </html>
 <style>
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Calculator using HTML CSS And JAVA SCRIPT</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <table class="calculator">
-       
-          <tr>
-            <td colspan="3"> <input class="display-box" type="text" id="display" /> </td>
-            <td> <input type="button" value="AC" onclick="clearDisplay()" id="btn" /> </td>
-          </tr>
-          <tr>
-            <td> <input type="button" value="1" onclick="appendToDisplay('1')"/> </td>
-            <td> <input type="button" value="2" onclick="appendToDisplay('2')"/> </td>
-            <td> <input type="button" value="3" onclick="appendToDisplay('3')"/> </td>
-            <td> <input type="button" value="/" onclick="appendToDisplay('/')"/> </td>
-          </tr>
-          <tr>
-            <td> <input type="button" value="4" onclick="appendToDisplay('4')"/> </td>
-            <td> <input type="button" value="5" onclick="appendToDisplay('5')"/> </td>
-            <td> <input type="button" value="6" onclick="appendToDisplay('6')"/> </td>
-            <td> <input type="button" value="-" onclick="appendToDisplay('-')"/> </td>
-          </tr>
-          <tr>
-            <td> <input type="button" value="7" onclick="appendToDisplay('7')"/> </td>
-            <td> <input type="button" value="8" onclick="appendToDisplay('8')"/> </td>
-            <td> <input type="button" value="9" onclick="appendToDisplay('9')"/> </td>
-            <td> <input type="button" value="+" onclick="appendToDisplay('+')"/> </td>
-          </tr>
-          <tr>
-            <td> <input type="button" value="." onclick="appendToDisplay('.')"/> </td>
-            <td> <input type="button" value="0" onclick="appendToDisplay('0')"/> </td>
-            <td> <input type="button" value="=" onclick="calculateResult()" id="btn"/> </td>
-            <td> <input type="button" value="*" onclick="appendToDisplay('*')"/> </td>
-          </tr>
-        </table>
-    <script src="script.js"></script>
-    
-</body>
-</html>
+ 
 body {
     display: flex;
     justify-content: center;
@@ -188,4 +146,3 @@ function calculateResult() {
     }
 }
 </script>
-
