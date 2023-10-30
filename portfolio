@@ -41,7 +41,6 @@
         <a href="#contact" class="btn btn--pink">Get in touch</a>
       </div>
       <div class="about__photo-container">
-        <img class="about__photo" src="./vs/b.png" alt="" />
       </div>
     </div>
   </header>
@@ -69,7 +68,7 @@
 
               <div class="work__links">
                 <a href="https://github.com/bhavyagoel221/CODSOFT/blob/main/portfolio" title="View Source Code" target="_blank">
-                  <img src="./vs/github.png" class="work__code" alt="GitHub">
+                  <img src="./github.png" class="work__code" alt="GitHub">
                 </a>
               </div>
             </div>
@@ -89,12 +88,12 @@
 
               <div class="work__links">
                 <a href="https://github.com/bhavyagoel221/CODSOFT/blob/main/Calculator" title="View Source Code" target="_blank">
-                  <img src="../vs/github.png" class="work__code" title="View Source Code" alt="GitHub">
+                  <img src="../github.png" class="work__code" title="View Source Code" alt="GitHub">
                 </a>
               </div>
             </div>
             <div class="work__image-box">
-              <img src="./images/project-2.png" class="work__image" alt="Project 1" />
+              <img src="./calculator.png" class="work__image" alt="Project 1" />
             </div>
           </div>
 
@@ -106,7 +105,7 @@
               </p>
             </div>
             <div class="work__image-box">
-              <img src="./images/project-3.png" class="work__image" alt="Project 3" />
+              <img src="./smart.jpg" class="work__image" alt="Project 3" />
             </div>
           </div>
           <div class="work__box">
@@ -117,7 +116,7 @@
               </p>
             </div>
             <div class="work__image-box">
-              <img src="./images/project-3.png" class="work__image" alt="Project 3" />
+              <img src="./akg.png" class="work__image" alt="Project 3" />
             </div>
      
     </section>
@@ -133,11 +132,11 @@
               A web developer intern based in UP, BHARAT.
             </p>
             <!-- Provide a link to your resume -->
-            <a href="#" class="btn">My Resume</a>
+            <a href="/bhavyaresume.pdf" class="btn">My Resume</a>
           </div>
 
           <div class="about__photo-container">
-            <img class="about__photo" src="./vs/b.png" alt="" />
+            <img class="about__photo" src="./b.png" alt="" />
           </div>
         </div>
       </div>
@@ -154,8 +153,8 @@
           Are you looking for a fast-performing and user-friendly website to
           represent your product or business? or looking for any kind of
           consultation? or want to ask questions? or have some advice for me
-          or just want to say "Hi 👋" in any case feel free to Let me know. I
-          will do my best to respond back. 😊 The quickest way to reach out to
+          or just want to say "Hi " in any case feel free to Let me know. I
+          will do my best to respond back.  The quickest way to reach out to
           me is via an email.
         </p>
         <a href="mailto:goelb221@gmail.com" class="btn">goelb221@gmail.com</a>
@@ -170,17 +169,17 @@
       <ul class="footer__social-links">
         <li class="footer__social-link-item">
           <a href="https://twitter.com/BhavyaG14457175/" title="Link to Twitter Profile">
-            <img src="./vs/twitter.png" class="footer__social-image" alt="Twitter">
+            <img src="./twitter.png" class="footer__social-image" alt="Twitter">
           </a>
         </li>
         <li class="footer__social-link-item">
           <a href="https://github.com/bhavyagoel221" title="Link to Github Profile">
-            <img src="./vs/github.png" class="footer__social-image" alt="Github">
+            <img src="./github.png" class="footer__social-image" alt="Github">
           </a>
         </li>
         <li class="footer__social-link-item">
           <a href="https://www.linkedin.com/in/bhavya-goel-b08405241">
-            <img src="./vs/linkedin.png" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
+            <img src="./linkedin.png" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
           </a>
         </li>
       </ul>
